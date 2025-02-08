@@ -1,0 +1,1 @@
+This repository demonstrates a common error in Tcl file handling and its solution. The `bug.tcl` file contains code that counts the number of lines in a file but lacks robust error handling. The `bugSolution.tcl` file shows how to improve the code with error checking to prevent crashes and provide informative error messages.
